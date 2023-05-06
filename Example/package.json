@@ -13,7 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "cordova-android": "^8.1.0",
+    "cordova-android": "^11.0.0",
     "cordova_agent_checkout": "git+https://github.com/rayjadore/cordova-agentCheckout.git"
   },
   "devDependencies": {
